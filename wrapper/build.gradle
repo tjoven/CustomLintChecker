@@ -33,4 +33,3 @@ dependencies {
     lintPublish project(':checker')
 }
 
-apply from: 'maven-install.gradle'
